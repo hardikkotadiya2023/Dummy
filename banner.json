@@ -1,0 +1,48 @@
+{
+    "AtMeGame": {
+        "banner": [
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/AtMeGame/banner_1.png",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/AtMeGame/banner_2.png",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/AtMeGame/banner_3.png",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/AtMeGame/banner_4.png",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/AtMeGame/banner_5.png"
+        ],
+        "card": [
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/AtMeGame/card_1.png",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/AtMeGame/card_2.png",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/AtMeGame/card_3.png",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/AtMeGame/card_4.png",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/AtMeGame/card_5.png"
+        ],
+        "icon": [
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/AtMeGame/icon_1.png",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/AtMeGame/icon_2.png",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/AtMeGame/icon_3.png",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/AtMeGame/icon_4.png",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/AtMeGame/icon_5.png"
+        ]
+    },
+    "Qureka": {
+        "banner": [
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/Qureka/banner_1.webp",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/Qureka/banner_2.webp",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/Qureka/banner_3.webp",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/Qureka/banner_4.webp",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/Qureka/banner_5.webp"
+        ],
+        "card": [
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/Qureka/card_1.webp",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/Qureka/card_2.webp",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/Qureka/card_3.webp",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/Qureka/card_4.webp",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/Qureka/card_5.webp"
+        ],
+        "icon": [
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/Qureka/icon_1.webp",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/Qureka/icon_2.webp",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/Qureka/icon_3.webp",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/Qureka/icon_4.webp",
+            "https://raw.githubusercontent.com/hardikkotadiya2023/Dummy/main/Qureka/icon_5.webp"
+        ]
+    }
+}
